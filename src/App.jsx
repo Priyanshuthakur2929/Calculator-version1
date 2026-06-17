@@ -1,5 +1,5 @@
 import Style from "./App.module.css";
-import Display from "./components.jsx/display.jsx";
+import Display from "./components.jsx/Display.jsx";
 import Button from "./components.jsx/Button.jsx";
 import { useState } from "react";
 function App() {
